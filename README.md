@@ -710,8 +710,13 @@ IR Motion (ESP32) → Trigger Signal → ESP32-CAM
 - **Data Update Frequency**: Every 2 seconds
 - **Power Consumption**: ~5W total (all modules)
 
+----
+**Author**
 ---
+KOLLI VENNELA CHOWDARY
 
-
+------
+**Liscence**
 ---
+This project is intended for educational purposes.
 
